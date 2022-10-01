@@ -14,6 +14,10 @@ Swing phase : initial swing >> mid swing >> terminal swing
 
 로 나뉠수 있다.
 
+# Openpose + machine & Deep learning
+
+Human Gait Analysis에서는 오픈포즈(메디아파이프, 블레이즈포즈 등)과
+
 머신러닝(Random Forest, SVM) 딥러닝(RNN, CNN, LSTM) 예측 모형을 활용하여
 
 이미지, 동영상, 각도 정보를 활용하여 RLA 정보를 예측모형으로 구현하고자 함.
