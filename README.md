@@ -29,4 +29,4 @@ Human Gait Analysis에서는 오픈포즈(메디아파이프, 블레이즈포즈
 
 https://blog.naver.com/PostView.nhn?blogId=choiyuwon&logNo=222217117433
 
-위 블로그를 참고하여 분석에 이용하면 도움이 됨.
+위 블로그를 참고하여 분석에 이용하면 도움이 됨. 
