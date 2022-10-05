@@ -24,6 +24,7 @@ Human Gait Analysis에서는 오픈포즈(메디아파이프, 블레이즈포즈
 
 ![RLA_GAIT](https://user-images.githubusercontent.com/113952742/192567972-73292639-abb9-4422-b187-8c9526a8c09c.png)
 
+참고문헌 : Comparative Study of Markerless Vision-Based Gait Analyses for Person Re-Identification
 
 보행편위나 이상보행패턴에 대해서는
 
